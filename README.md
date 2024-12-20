@@ -23,4 +23,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasu551&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasu551&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasu551&theme=default)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/yasu551/langs)](https://githubtrends.io)
